@@ -1,0 +1,17 @@
+# build output
+/dummyjson
+/dummyjson.exe
+/server
+/server.exe
+
+# local config
+.env
+
+# test and coverage output
+*.out
+coverage.html
+
+# editor
+.idea/
+.vscode/
+*.swp
